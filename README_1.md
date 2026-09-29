@@ -4,8 +4,8 @@
 **Professor:** Ana Paula Rezende Dos Santos
 **Integrantes do grupo:**
 - Adriano Alves
-- 
-- 
+- Murilo Medeiros Fonseca
+- Lucas Lopes Carvalho
 - 
 
 ## 📖 Sobre o projeto
